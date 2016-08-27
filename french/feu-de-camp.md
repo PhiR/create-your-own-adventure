@@ -33,3 +33,5 @@ Que faites-vous ?
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
+
+[Je suis allergique au pain d'épice, je meurs](mort/mort.md)
